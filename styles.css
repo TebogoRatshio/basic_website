@@ -101,11 +101,17 @@ a:hover {
         display: flex;
         justify-content: space-between;
     }
+    .historicalFlex{
+        display: flex;
+    }
 
     .profileImg {
-        margin-left: 900px;
+        margin-left: 700px;
         width: 250px;
         border-radius: 125px;
         margin-bottom: 90px;
+    }
+    .historyPara {
+        order: 0;
     }
 }
